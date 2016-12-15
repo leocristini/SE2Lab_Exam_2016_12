@@ -78,3 +78,11 @@ describe("Test /searchStudent", function() {
 
 
 });
+
+//Test per /searchByMark
+describe("Test /searchByMark", function(){
+     //legal request
+	it("must be defined", function(done)){
+        expect(searchStudentByMark(criteria)).not.toBeDefined();   
+    }
+});
