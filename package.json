@@ -1,0 +1,20 @@
+{
+  "name": "leocristini",
+  "version": "1.0.0",
+  "description": "SE2Lab_Exam_2016_12",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leocristini/SE2Lab_Exam_2016_12.git"
+  },
+  "author": "leonardocristini",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leocristini/SE2Lab_Exam_2016_12/issues"
+  },
+  "homepage": "https://github.com/leocristini/SE2Lab_Exam_2016_12#readme"
+}

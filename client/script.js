@@ -71,7 +71,7 @@ $(document).ready(function()
 		},
 		function(data, status){
 			console.log(data);
-			alert("Status: " + status);
+			alert("Data: " + data);
 		},
 		"json");
 	});
@@ -83,7 +83,7 @@ $(document).ready(function()
 		},
 		function(data, status){
 			console.log(data);
-			alert("Status: " + status);
+			alert("Data: " + data);
 		},
 		"json");
 	});
